@@ -1,5 +1,5 @@
 ## About
-This project is the solution to [Wise Publishing Back End Developer Challenge 2020]{https://bitbucket.org/2576250inc/back-end-developer-challenge-1/src/master/}.
+This project is the solution to [Wise Publishing Back End Developer Challenge 2020](https://bitbucket.org/2576250inc/back-end-developer-challenge-1/src/master/).
 
 
 ## First Task
